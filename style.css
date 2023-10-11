@@ -1,0 +1,42 @@
+*{
+    background-color: beige;
+    margin-left: 50px;
+    
+}
+
+.box{
+    margin-top: 10px;
+   height: 30px;
+   width: 400px;
+   
+}
+.head{
+    height: 20px;
+    width: 50px;
+}
+.agebox{  
+     margin-top: 20px;
+    height: 30px;
+    width: 400px;
+ 
+}
+.ag{
+    height: 20px;
+    width: 50px;
+    margin-top: 10px;
+}
+.datebox{margin-top: 20px;
+    height: 30px;
+    width: 400px;
+
+}
+.db{
+    height: 20px;
+    width: 50px;
+    margin-top: 10px;
+}
+.submit{
+    margin-top: 10px;
+  height: 30px;
+    width: 100px;
+}
